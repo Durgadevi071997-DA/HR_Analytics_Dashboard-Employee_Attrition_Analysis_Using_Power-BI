@@ -2,6 +2,10 @@
 ##HR-Analytics-Dashboard-Employee-Attrition-Analysis
 
 
+## Project Overview
+
+This project presents an interactive HR Analytics Dashboard developed using Power BI to analyze employee attrition and workforce performance. The dashboard helps HR professionals identify the key factors influencing employee turnover, monitor workforce metrics, and make informed decisions through interactive visualizations.
+
 ## Project Objectives
 
 Analyze employee attrition trends.
@@ -151,12 +155,7 @@ KPI Development
 Data Analysis
 
 Report Development
-## Conclusion
 
-The HR Analytics Dashboard demonstrates how business intelligence tools can be used to improve workforce management. By identifying the major factors contributing to employee attrition, organizations can implement effective retention strategies, increase employee satisfaction, and enhance overall organizational performance.
-## Conclusion
-
-The HR Analytics Dashboard demonstrates how business intelligence tools can be used to improve workforce management. By identifying the major factors contributing to employee attrition, organizations can implement effective retention strategies, increase employee satisfaction, and enhance overall organizational performance.
 ## Conclusion
 
 The HR Analytics Dashboard demonstrates how business intelligence tools can be used to improve workforce management. By identifying the major factors contributing to employee attrition, organizations can implement effective retention strategies, increase employee satisfaction, and enhance overall organizational performance.
