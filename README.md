@@ -1,5 +1,5 @@
 
-## SYNTECXHUB-HR-Analytics-Dashboard-Employee-Attrition-Analysis
+### HR-Analytics-Dashboard-Employee-Attrition-Analysis
 
 
 ## Project Overview
